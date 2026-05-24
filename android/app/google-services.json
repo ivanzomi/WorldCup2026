@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "489974676897",
+    "firebase_url": "https://worldcup-3b06a-default-rtdb.firebaseio.com",
+    "project_id": "worldcup-3b06a",
+    "storage_bucket": "worldcup-3b06a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489974676897:android:86ae99b852afa90ce5dfe0",
+        "android_client_info": {
+          "package_name": "com.iz.worldcup2026"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489974676897-05k7egqul8316kjmqv4s0uutnp5uff8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iz.worldcup2026",
+            "certificate_hash": "ad968c027e669a8528c8ff0eb880206655f15da6"
+          }
+        },
+        {
+          "client_id": "489974676897-oso9mamu2cdn63nhof2kh2fv259pc5uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWU4QTvwd5FWxNWTfTg0hKnrYPrc53-xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489974676897-oso9mamu2cdn63nhof2kh2fv259pc5uc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489974676897-flbrgq2pdr5k4t5cotnahsf9k8cu134k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iz.worldcup2026"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
