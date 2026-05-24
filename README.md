@@ -26,4 +26,4 @@ A fully functional IPTV and Live Sports streaming application built with **Flutt
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/worldcup2026.git](https://github.com/ivanzomi/worldcup2026.git)
+   git clone [https://github.com/ivanzomi/worldcup2026.git](https://github.com/ivanzomi/worldcup2026.git)
